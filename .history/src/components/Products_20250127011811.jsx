@@ -18,7 +18,7 @@ export default function Products() {
     //   console.log(data);
     //   setProducts(data);
     // };
-    
+    // fetchProducts();
   }, []);
 
   const handleAdd = (product) => {
